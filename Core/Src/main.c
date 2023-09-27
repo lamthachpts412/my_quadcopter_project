@@ -49,8 +49,8 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define TIMEOUT_MAIN	4000u					/* The unit is micro second */
-#define T_SAMPLE		(TIMEOUT_MAIN * 1e-6f)	/* The unit is second */
+#define TIMEOUT_MAIN	4000u			/* The unit is micro second */
+#define T_SAMPLE	(TIMEOUT_MAIN * 1e-6f)	/* The unit is second */
 
 /* USER CODE END PD */
 
